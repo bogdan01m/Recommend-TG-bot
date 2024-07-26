@@ -34,7 +34,7 @@ class MovieRecommender:
                 recommendations = ["Такого фильма у нас нет ( ◡‿◡ *)"]
 
         return recommendations
-API_TOKEN='7352607850:AAERfgMcKJ8T_WwyhjxTjNq_4ez6ICGfpBE'
+API_TOKEN='ТОКЕН'
 bot = telebot.TeleBot(API_TOKEN)
 recommender = MovieRecommender(data, indices, sim)
 
