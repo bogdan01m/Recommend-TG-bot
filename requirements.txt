@@ -1,0 +1,6 @@
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.5.0
+pyTelegramBotAPI==4.21.0
+fuzzywuzzy== 0.18.0
+python-Levenshtein==0.25.1
